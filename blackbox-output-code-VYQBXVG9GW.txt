@@ -1,0 +1,3 @@
+npm create vite@latest my-shop -- --template react
+cd my-shop
+npm install
